@@ -187,7 +187,6 @@ Trademarks
 
 
 @corpdesk/core
-MIT
 
 @corpdesk/naz
 
